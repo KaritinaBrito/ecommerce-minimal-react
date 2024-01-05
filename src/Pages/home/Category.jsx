@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom"
 const companyLogo = [
-    {id: 1, img: "/src/assets/logo__01.png"},
-    {id: 2, img: "/src/assets/logo__02.png"},
-    {id: 3, img: "/src/assets/logo_03.png"},
-    {id: 4, img: "/src/assets/logo__04.png"},
-    {id: 5, img: "/src/assets/logo__05.png"},
+    {id: 1, img: "/public/logo__01.png"},
+    {id: 2, img: "/public/logo__02.png"},
+    {id: 3, img: "/public/logo_03.png"},
+    {id: 4, img: "/public/logo__04.png"},
+    {id: 5, img: "/public/logo__05.png"},
 ]
 const Category = () => {
     return (
@@ -19,14 +19,14 @@ const Category = () => {
             <div className="mt-8 flex flex-col md:flex-row items-center gap-4">
                 <p className="font-semibold uppercase md:-rotate-90 text-center bg-Black text-white md:p-1.5 p-2 rounded-sm inline-flex">Explore new and popular styles</p>
                 <div>
-                    <Link to="/"><img src="/src/assets/company5.png" alt="company5" className="w-full hover:scale-105 transition-all duration-200"/></Link>
+                    <Link to="/"><img src="/public/company5.png" alt="company5" className="w-full hover:scale-105 transition-all duration-200"/></Link>
                 </div>
                 <div className="md:w-1/2">
                     <div className="grid grid-cols-2 gap-2">
-                    <Link to="/"><img src="/src/assets/company4.png" alt="company4" className="w-full hover:scale-105 transition-all duration-200"/></Link>
-                    <Link to="/"><img src="/src/assets/company3.png" alt="company3" className="w-full hover:scale-105 transition-all duration-200"/></Link>
-                    <Link to="/"><img src="/src/assets/company2.png" alt="company2" className="w-full hover:scale-105 transition-all duration-200"/></Link>
-                    <Link to="/"><img src="/src/assets/company1.png" alt="company1" className="w-full hover:scale-105 transition-all duration-200"/></Link>
+                    <Link to="/"><img src="/public/company4.png" alt="company4" className="w-full hover:scale-105 transition-all duration-200"/></Link>
+                    <Link to="/"><img src="/public/company3.png" alt="company3" className="w-full hover:scale-105 transition-all duration-200"/></Link>
+                    <Link to="/"><img src="/public/company2.png" alt="company2" className="w-full hover:scale-105 transition-all duration-200"/></Link>
+                    <Link to="/"><img src="/public/company1.png" alt="company1" className="w-full hover:scale-105 transition-all duration-200"/></Link>
                     </div>
                 </div>
             </div>

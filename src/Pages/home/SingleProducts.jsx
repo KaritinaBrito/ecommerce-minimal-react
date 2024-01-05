@@ -10,7 +10,7 @@ const SingleProducts = () => {
     useEffect(()=> {
         const fetchData = async () => {
             try {
-                const response = await fetch("/src/assets/products.json");
+                const response = await fetch("/src/products.json");
                 const data = await response.json();
                 const product = data.filter((p) => p.id == id);
                 setProducts(product[0]);

@@ -1,4 +1,4 @@
-import banner from '../../assets/banner.png';
+import banner from '../../../public/banner.png';
 import { FaBagShopping } from "react-icons/fa6";
 
 const Banner = () => {
