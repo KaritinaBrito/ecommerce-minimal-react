@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaSearch, FaUser, FaBars, FaTimes } from "react-icons/fa";
 import { FaBagShopping } from "react-icons/fa6";
-import logo from '../../src/assets/logos/logoMain.png';
+import logo from '../../src/assets/logoMain.png';
 
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);

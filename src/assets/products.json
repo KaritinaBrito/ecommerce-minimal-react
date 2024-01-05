@@ -4,7 +4,7 @@
         "title":"Adicolor Classics Joggers",
         "category": "Dress",
         "price": 63.85,
-        "image":"/src/assets/products/image1.png",
+        "image":"/src/assets/image1.png",
         "status": "Best Selers"
     },
     {
@@ -12,7 +12,7 @@
         "title":"Nike Sportswear Futura Luxe",
         "category": "Bag",
         "price": 130.00,
-        "image":"/src/assets/products/image2.png",
+        "image":"/src/assets/image2.png",
         "status": "Best Selers"
     },
     {
@@ -20,7 +20,7 @@
         "title":"Geometric print Scarf",
         "category": "Dress",
         "price": 53.00,
-        "image":"/src/assets/products/image3.png",
+        "image":"/src/assets/image3.png",
         "status": "Best Selers"
     },
     {
@@ -28,7 +28,7 @@
         "title":"Yellow Reserved Hoodie",
         "category": "Hoodies",
         "price": 63.85,
-        "image":"/src/assets/products/image4.png",
+        "image":"/src/assets/image4.png",
         "status": "New Arriaval"
     },
     {
@@ -36,7 +36,7 @@
         "title":"Basic Dress Green",
         "category": "Dress",
         "price": 236.00,
-        "image":"/src/assets/products/image5.png",
+        "image":"/src/assets/image5.png",
         "status": "New Arriaval"
     },
     {
@@ -44,7 +44,7 @@
         "title":"Nike Air Zoom Pegasus",
         "category": "Shoes",
         "price": 198.00,
-        "image":"/src/assets/products/image6.png",
+        "image":"/src/assets/image6.png",
         "status": "Best Selers"
     },
     {
@@ -52,7 +52,7 @@
         "title":"Nike Repel Miler",
         "category": "Hoodies",
         "price": 120.50,
-        "image":"/src/assets/products/image7.png",
+        "image":"/src/assets/image7.png",
         "status": "Best Selers"
     },
     {
@@ -60,14 +60,14 @@
         "title":"Nike Sportswear Futura Luxe",
         "category": "Glasses",
         "price": 160.00,
-        "image":"/src/assets/products/image8.png"
+        "image":"/src/assets/image8.png"
     },
     {
         "id":9,
         "title":"Nike Sportswear Futura Luxe",
         "category": "Bag",
         "price": 130.00,
-        "image":"/src/assets/products/image2.png",
+        "image":"/src/assets/image2.png",
         "status": "Best Selers"
     },
     {
@@ -75,7 +75,7 @@
         "title":"Geometric print Scarf",
         "category": "Dress",
         "price": 53.00,
-        "image":"/src/assets/products/image3.png",
+        "image":"/src/assets/image3.png",
         "status": "Best Selers"
     },
     {
@@ -83,7 +83,7 @@
         "title":"Yellow Reserved Hoodie",
         "category": "Hoodies",
         "price": 63.85,
-        "image":"/src/assets/products/image4.png",
+        "image":"/src/assets/image4.png",
         "status": "New Arriaval"
     },
     {
@@ -91,7 +91,7 @@
         "title":"Basic Dress Green",
         "category": "Dress",
         "price": 236.00,
-        "image":"/src/assets/products/image5.png",
+        "image":"/src/assets/image5.png",
         "status": "New Arriaval"
     }
 ]

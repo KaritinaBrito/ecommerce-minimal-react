@@ -7,22 +7,22 @@ const Newletters = () => {
 
         <div className="flex flex-wrap gap-4 items-center justify-center mb-20">
             <Link to={"/"}>
-                <img src="/src/assets/instagram/img1.png" alt="image 1" />
+                <img src="/src/assets/img1.png" alt="image 1" />
             </Link>
             <Link to={"/"}>
-                <img src="/src/assets/instagram/img2.png" alt="image 2" />
+                <img src="/src/assets/img2.png" alt="image 2" />
             </Link>
             <Link to={"/"}>
-                <img src="/src/assets/instagram/img3.png" alt="image 3" />
+                <img src="/src/assets/img3.png" alt="image 3" />
             </Link>
             <Link to={"/"}>
-                <img src="/src/assets/instagram/img4.png" alt="image 4" />
+                <img src="/src/assets/img4.png" alt="image 4" />
             </Link>
             <Link to={"/"}>
-                <img src="/src/assets/instagram/img5.png" alt="image 5" />
+                <img src="/src/assets/img5.png" alt="image 5" />
             </Link>
             <Link to={"/"}>
-                <img src="/src/assets/instagram/img6.png" alt="image 6" />
+                <img src="/src/assets/img6.png" alt="image 6" />
             </Link>
         </div>
 

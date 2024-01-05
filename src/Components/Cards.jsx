@@ -7,7 +7,7 @@ const Cards = ({filteredItems}) => {
             {
                 // eslint-disable-next-line react/prop-types
                 filteredItems.slice(0,8).map((item) => (
-                    <div key={item.id} className="">
+                    <div key={item.id} >
                         <Link to={`/shop/${item.id}`}>
                             <img src={item.image} alt={item.title} className="mx-auto w-full hover:scale-105 transition-all duration-300"/>
                         </Link>
