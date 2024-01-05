@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="mt-20 mb-10 flex flex-col md:flex-row items-start justify-between gap-8 xl:px-28 px-4">
                     <div className="md:w-[400px]">
                         <Link to={"/"}>
-                            <img src="/src/assets/logos/logoMain.png" alt="logo" />
+                            <img src="/src/assets/logoMain.png" alt="logo" />
                         </Link>
                         <p className="my-8 text-Black/75">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis nisi, soluta assumenda aut nemo animi deleniti necessitatibus ea labore consequuntur!</p>
                         <div className="flex gap-6 items-center">
